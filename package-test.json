@@ -1,0 +1,14 @@
+{
+  "name": "little-lemon-tests",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "react-scripts test"
+  },
+  "dependencies": {
+    "@testing-library/react": "^14.0.0",
+    "@testing-library/jest-dom": "^6.1.0",
+    "@testing-library/user-event": "^14.5.0",
+    "jest": "^29.7.0"
+  }
+}
